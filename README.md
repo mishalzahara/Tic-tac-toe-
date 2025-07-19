@@ -36,9 +36,6 @@ tic-tac-toe/
 2. Open `index.html` in your browser
 3. Click on the boxes to make your move
 4. First to get 3 in a row wins!
- Demo
-
-You can view a live demo [here](#) *(Replace `#` with GitHub Pages or Netlify link if deployed)*
 
 
  License
